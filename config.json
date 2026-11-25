@@ -1,0 +1,7 @@
+{
+  "season": 2024,
+  "refreshDays": 7,
+  "eventsPerRun": 60,
+  "reserve": 4,
+  "delayMs": 6500
+}
